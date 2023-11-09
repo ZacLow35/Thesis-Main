@@ -1,0 +1,32 @@
+#!/bin/bash
+
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/F01/Session1/wav_arrayMic 1 f01_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/F03/Session1/wav_arrayMic 1 f03_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/F03/Session2/wav_arrayMic 1 f03_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/F03/Session3/wav_arrayMic 1 f03_3.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/F04/Session1/wav_arrayMic 1 f04_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/F04/Session2/wav_arrayMic 1 f04_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/FC01/Session1/wav_arrayMic 0 fc01_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/FC02/Session2/wav_arrayMic 0 fc02_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/FC02/Session3/wav_arrayMic 0 fc02_3.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/FC03/Session1/wav_arrayMic 0 fc03_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/FC03/Session2/wav_arrayMic 0 fc03_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/FC03/Session3/wav_arrayMic 0 fc03_3.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M01/Session1/wav_arrayMic 1 m01_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M01/Session2_3/wav_arrayMic 1 m01_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M02/Session1/wav_arrayMic 1 m02_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M02/Session2/wav_arrayMic 1 m02_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M03/Session2/wav_arrayMic 1 m03_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M04/Session1/wav_arrayMic 1 m04_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M04/Session2/wav_arrayMic 1 m04_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M05/Session1/wav_arrayMic 1 m05_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/M05/Session2/wav_headMic  1 m05_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC01/Session1/wav_arrayMic 0 mc01_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC01/Session2/wav_arrayMic 0 mc01_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC01/Session3/wav_arrayMic 0 mc01_3.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC02/Session1/wav_arrayMic 0 mc02_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC02/Session2/wav_arrayMic 0 mc02_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC03/Session1/wav_arrayMic 0 mc03_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC03/Session2/wav_arrayMic 0 mc03_2.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC04/Session1/wav_arrayMic 0 mc04_1.csv
+python torgo_binary_label.py /srv/scratch/z5271785/TORGO/MC04/Session2/wav_arrayMic 0 mc04_2.csv

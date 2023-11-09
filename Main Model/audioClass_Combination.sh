@@ -1,0 +1,2 @@
+#!/bin/bash
+python audioClass_Combination.py combination_bin ZLOW/combination_bin /srv/scratch/z5271785/main/datasets/Combination_binsev/train.csv /srv/scratch/z5271785/main/datasets/Combination_binsev/test.csv
